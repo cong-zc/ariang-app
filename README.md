@@ -19,3 +19,6 @@ pip install -r requirements.txt
 - [ ] 添加下载完成后的提示
 - [ ] 添加下载失败后的重试功能
 - [ ] 重写前端ui, 使用vue.js或react.js
+
+## 参考：
+-AriaNG[https://github.com/mayswind/AriaNg]
