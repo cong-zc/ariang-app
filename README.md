@@ -12,6 +12,9 @@ pip install -r requirements.txt
 ### 打包程序：  
 1. 通过cmd进入项目目录，运行build.bat生成exe文件。
 2. 运行.exe文件即可。
+## 修改配置文件：  
+1. 打开`_internal/aria2c/aria2.conf`
+2. 修改配置项，保存即可。
 
 ### todo:
 - [ ] 添加下载进度条
