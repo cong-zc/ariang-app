@@ -1,1 +1,1 @@
-pyinstaller --add-data "aria2c;aria2c" --name=ariang-app  main.py
+pyinstaller --noconsole --add-data "aria2c;aria2c" --name=ariang-app  main.py
